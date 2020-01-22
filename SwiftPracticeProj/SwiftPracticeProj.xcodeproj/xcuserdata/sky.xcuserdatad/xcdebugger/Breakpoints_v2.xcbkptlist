@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "32552CAB-5EEB-454E-8C93-A8841736A869"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE026E97-795F-45B1-9B47-86E357ED88A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPracticeProj/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3A2751F-1426-4EAF-A753-6A5BD367FAE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPracticeProj/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPracticeProj/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - 21b9df1e93b2250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.shownCities.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - dbeecace0ffad624"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.shownCities.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - c24ea86f58b1f153"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.shownCities.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - 52f6438057d79717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.shownCities.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - c55667fd271fb304"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SwiftPracticeProj.DetailViewController"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "1F983CC0-E5A8-479F-9D0E-01487F34C868 - fb21ff9e311d2d0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPracticeProj.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SwiftPracticeProj.DetailViewController&gt;"
+                  moduleName = "SwiftPracticeProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Documents/projects/Swift/SwiftPracticeProj/SwiftPracticeProj/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
